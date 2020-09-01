@@ -1,2 +1,2 @@
 # furniture 
-My first design using figma
+My first UI design using figma
